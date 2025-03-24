@@ -184,13 +184,15 @@ img {
 .text-xl {
   font-size: 2rem;
   margin-bottom: 1rem;
-  color: #fff;
 }
 
 .text-lg {
   font-size: 1.8rem;
   margin-bottom: 1rem;
-  color: white;
+}
+.text-md {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .text-center {
