@@ -124,6 +124,19 @@ img {
   text-align: center;
 }
 
+.tabs p {
+  font-size: 1.2rem;
+  padding-top: 0.5rem;
+}
+
+/* Container */
+.container {
+  max-width: 70%;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 2rem;
+}
+
 /* Buttons */
 .btn {
   display: inline-block;
