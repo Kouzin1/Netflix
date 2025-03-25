@@ -189,6 +189,14 @@ img {
   text-align: center;
 }
 
+.table tbody tr td:first-child {
+  text-align: left;
+}
+
+.table thead th:nth-child(odd) {
+  background: #222;
+}
+
 /* Container */
 .container {
   max-width: 70%;
