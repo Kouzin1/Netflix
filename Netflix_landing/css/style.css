@@ -193,7 +193,7 @@ img {
   text-align: left;
 }
 
-.table thead th:nth-child(odd) {
+.table tbody tr:nth-child(odd) {
   background: #222;
 }
 
