@@ -314,4 +314,9 @@ img {
   .showcase-content p {
     font-size: 1.5rem;
   }
+
+  .btn-xl {
+    font-size: 1.5rem;
+    padding: 1 4rem 2rem;
+  }
 }
