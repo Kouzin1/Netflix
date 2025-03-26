@@ -339,9 +339,7 @@ img {
 
 @media (max-width: 700px) {
   .showcase::after {
-    background: rgb(0, 0, 0.6);
-    box-shadow: inset 120px 100px 250px #000000,
-      inset -120px -100px 250px #000000;
+    box-shadow: inset 80px 80px 250px #000000, inset -80px -80px 250px #000000;
   }
   #tab-1-content .tab-1-content-inner {
     grid-template-columns: 1fr;
